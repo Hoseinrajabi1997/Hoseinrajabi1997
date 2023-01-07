@@ -8,7 +8,7 @@ I am a software engineer with a strong background in data structure and algorith
 
 * 🌍  I'm based in London, ON
 * ✉️  You can contact me at [hrajabi@uwo.ca](mailto:hrajabi@uwo.ca)
-* 🤝  I'm open to collaborating on interesting projects to develop my knowledge
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
