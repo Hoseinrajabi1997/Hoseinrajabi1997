@@ -4,7 +4,7 @@ Hi 👋 My name is Hosein
 Software Engineer - Computer Science Graduate Student @uwo
 ----------------------------------------------------------
 
-I am a software engineer 
+I am a software engineer.
 * ✉️  You can contact me at [hrajabi@uwo.ca](mailto:hrajabi@uwo.ca)
 
 ### Skills
