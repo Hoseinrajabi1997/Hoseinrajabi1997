@@ -1,4 +1,4 @@
-Hi 👋 My name is Hosein
+Hi 👋
 =======================
 
 Software Engineer - Computer Science Graduate Student @uwo
